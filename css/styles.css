@@ -1,0 +1,39 @@
+a {
+    margin: 20px;
+    padding-bottom: 40px;
+        }
+
+body {
+            background-color: powderblue;
+            max-width: 1400px;
+            margin: auto;
+            font-size: 30px;
+        }
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gold;
+    border-width: 10px;
+    width: 25%;
+}
+h1 {
+    color: red;
+    font-Size: 50px;
+        }
+h3 {
+    color: red;
+    font-size: 40px;
+        }
+
+img {
+    height: 300px;
+        }
+
+p {
+
+        }
+
+.submit {
+    margin: 20px;
+    font-size: 30px;
+        }
